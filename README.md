@@ -22,6 +22,6 @@ That's it. Pathogen should handle the rest. Opening a file that matches `/etc/li
 
 ## Credits ##
 
-Forked from [pld-linux/vim-syntax-lighttpd](https://github.com/pld-linux/vim-syntax-lighttpd)
-README.md derived from [vim-less](https://github.com/groenewege/vim-less)
+*       Forked from [pld-linux/vim-syntax-lighttpd](https://github.com/pld-linux/vim-syntax-lighttpd)
+*       README.md derived from [vim-less](https://github.com/groenewege/vim-less)
 
